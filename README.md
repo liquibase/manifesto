@@ -5,7 +5,7 @@
     
 2.  We encourage teamwork and celebrating achievements.
     
-3.  We are committed to helping each other succeed and grow, and value our diverse backgrounds and experience.
+3.  No punks, no jerks. We are committed to helping each other succeed and grow, and value our diverse backgrounds and experience.
     
 4.  Flexible working hours over set working hours. The results of work over the hours put in.
     
