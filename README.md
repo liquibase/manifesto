@@ -20,3 +20,5 @@
 9.  Everyone can contribute, but the buck stops with the DRI. After a decision is made, we don't re-hash it and we stand behind it unless significant information presents itself.
     
 10.  We create raving fans.
+
+11.  We value a team connecting to the mission and each other
