@@ -20,3 +20,5 @@
 9.  Everyone can contribute, but the buck stops with the DRI. After a decision is made, we don't re-hash it and we stand behind it unless significant information presents itself.
     
 10.  We create raving fans.
+
+11.  Ship Happens. We are a deliver first company and learn the most from our customers. We do not toil in darkness but instead seek the light of clarity from our customers with early and early releases.
